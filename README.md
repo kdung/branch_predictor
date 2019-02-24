@@ -1,4 +1,5 @@
-# branch_predictor
+# perceptron_branch_predictor
 
-perceptron branch predictor
-https://www.cs.utexas.edu/~lin/papers/hpca01.pdf
+adapt from: https://www.cs.utexas.edu/~lin/papers/hpca01.pdf
+
+simulate on Sniper: http://snipersim.org/w/The_Sniper_Multi-Core_Simulator
